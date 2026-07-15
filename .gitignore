@@ -1,0 +1,31 @@
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Common build/dependency output
+node_modules/
+__pycache__/
+*.pyc
+target/
+build/
+dist/
+out/
+*.class
+*.o
+*.obj
